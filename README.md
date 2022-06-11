@@ -1,10 +1,10 @@
 ## Hello World! I'm Rodrigo! 🤓
 <ul>
  <li>
-    <h5>📚Computer engineer in training at the Universidade Estadual de Feira de Santana (UEFS)</h5>
+    <h3>📚Computer engineer in training at the Universidade Estadual de Feira de Santana (UEFS)</h3>
  </li>
   <li>
-    <h5>📈Joining programming and investment in my spare time </h5>
+    <h3>📈Joining programming and investment in my spare time </h3>
   </li>
 </ul>
 <div align="center">
