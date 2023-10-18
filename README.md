@@ -8,15 +8,17 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigodsgit&layout=compact&hide_border=true&title_color=91B302&text_color=91B302&bg_color=0d1117" />
 </div>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rodrigodsgit&theme=gruvbox&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 <!--![Contribution](https://activity-graph.herokuapp.com/graph?username=Rodrigodsgit&theme=merko&hide_border=true&area=true)-->
 <p align="center">
           <a href="https://github.com/rodrigodsgit/">
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigodsgit&theme=merko&hide_border=true&bg_color=0d1117" />
           </a>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rodrigodsgit&theme=gruvbox&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
  
 <div align="center">  
 <a href="https://www.linkedin.com/in/rodrigo-damasceno-41036b192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
