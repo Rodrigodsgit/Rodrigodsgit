@@ -11,7 +11,7 @@
 <!--![Contribution](https://activity-graph.herokuapp.com/graph?username=Rodrigodsgit&theme=merko&hide_border=true&area=true)-->
 <p align="center">
           <a href="https://github.com/rodrigodsgit/">
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigodsgit&theme=merko&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigodsgit&theme=merko&hide_border=true&bg_color=0d1117" />
           </a>
 </p>
 <p align="center">
