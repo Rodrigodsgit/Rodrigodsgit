@@ -8,8 +8,13 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigodsgit&layout=compact&hide_border=true&title_color=91B302&text_color=91B302&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Rodrigodsgit&theme=merko&hide_border=true&area=true)
-
+<!--![Contribution](https://activity-graph.herokuapp.com/graph?username=Rodrigodsgit&theme=merko&hide_border=true&area=true)-->
+<p align="center">
+          <a href="https://github.com/rodrigodsgit/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rodrigodsgit&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigodsgit&theme=gruvbox&hide_border=true" />
+          </a>
+</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rodrigodsgit&theme=gruvbox&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -61,11 +66,18 @@
 <br></div>
  
   ##
-<div align="center"> 
+<!--<div align="center"> 
 
  
   ![Snake animation](https://github.com/Rodrigodsgit/Rodrigodsgit/blob/output/github-contribution-grid-snake.svg)
  
+</div>
+-->
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B302&height=120&section=footer"/>
