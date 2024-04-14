@@ -43,6 +43,7 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=blue)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -52,13 +53,13 @@
 )&nbsp;
 ![Solidity](https://img.shields.io/badge/Solidity-0D1117?style=for-the-badge&logo=solidity&logoColor=black)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
  
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 
 <div align="center">
@@ -66,20 +67,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rodrigodsgit}/count.svg" /></p> 
 <br></div>
  
-  ##
-<!--<div align="center"> 
-
- 
-  ![Snake animation](https://github.com/Rodrigodsgit/Rodrigodsgit/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
--->
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B302&height=120&section=footer"/>
  
